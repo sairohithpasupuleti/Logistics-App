@@ -10,7 +10,9 @@
 ![Screenshot (33)](https://user-images.githubusercontent.com/47001724/94917848-f8455700-04ce-11eb-8670-7b7049c75a58.png)
 6. Invoice designed using Visualforce. 
 ![Screenshot (31)](https://user-images.githubusercontent.com/47001724/94917885-127f3500-04cf-11eb-83f0-3fdf50413d9a.png)
-7.
+7. Automated email process, when the product is ordered.
 ![Screenshot (34)](https://user-images.githubusercontent.com/47001724/94917952-36db1180-04cf-11eb-8566-3c2e4b0ce590.png)
+8. Automated email process, when the product is dispatched.
 ![Screenshot (35)](https://user-images.githubusercontent.com/47001724/94918025-583bfd80-04cf-11eb-96f5-bc45ee84f489.png)
+9. Dashboard
 ![Screenshot (36)](https://user-images.githubusercontent.com/47001724/94918076-71dd4500-04cf-11eb-8e47-169351919b8d.png)
