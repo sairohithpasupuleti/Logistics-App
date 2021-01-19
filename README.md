@@ -6,8 +6,9 @@
 ![Screenshot (38)](https://user-images.githubusercontent.com/47001724/94918694-b3222480-04d0-11eb-8cc8-5215f9dedee2.png)
 4. Assigned Driver to customer.
 ![Screenshot (32)](https://user-images.githubusercontent.com/47001724/94917802-e19f0000-04ce-11eb-98bb-9873bf052292.png)
-5. 
+5. Cases for product related problems.
 ![Screenshot (33)](https://user-images.githubusercontent.com/47001724/94917848-f8455700-04ce-11eb-8670-7b7049c75a58.png)
+6. 
 ![Screenshot (31)](https://user-images.githubusercontent.com/47001724/94917885-127f3500-04cf-11eb-83f0-3fdf50413d9a.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/47001724/94917952-36db1180-04cf-11eb-8566-3c2e4b0ce590.png)
 ![Screenshot (35)](https://user-images.githubusercontent.com/47001724/94918025-583bfd80-04cf-11eb-96f5-bc45ee84f489.png)
