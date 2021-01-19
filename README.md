@@ -1,6 +1,8 @@
-Schema Builder of whole project
+1. Schema Builder of whole project
 ![Screenshot (37)](https://user-images.githubusercontent.com/47001724/94917634-810fc300-04ce-11eb-8f9a-3c7788ac38a6.png)
+2. Home Page to get the Data of customer
 ![Screenshot (29)](https://user-images.githubusercontent.com/47001724/94917687-9dabfb00-04ce-11eb-8588-c16f29f477f5.png)
+3. 
 ![Screenshot (38)](https://user-images.githubusercontent.com/47001724/94918694-b3222480-04d0-11eb-8cc8-5215f9dedee2.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/47001724/94917802-e19f0000-04ce-11eb-98bb-9873bf052292.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/47001724/94917848-f8455700-04ce-11eb-8670-7b7049c75a58.png)
